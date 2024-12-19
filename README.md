@@ -41,9 +41,7 @@ Swagger will be available at:
     command - cd todo-list-frontend
 2. Install dependencies
     command - npm install
-3. Apply the database migrations
-    command - dotnet ef database update
-4. Run the frontend
+3. Run the frontend
     command - npm start
 
 The frontend should now be running at `http://localhost:3000`.
