@@ -37,8 +37,8 @@ Swagger will be available at:
 
 ### Setting Up the Frontend
 
-1. Navigate to the todo-list-frontend project directory
-    command - cd todo-list-app-main/todo-list-frontend
+1. Navigate to the todo-list-frontend project directory in a new terminal
+    command - cd todo-list-frontend
 2. Install dependencies
     command - npm install
 3. Apply the database migrations
